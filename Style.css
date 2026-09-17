@@ -18,9 +18,11 @@ h2 {
   text-align: center;
   color: paleturquoise;
 }
-h4 {
-text-align: center;
-      color: lightgray;
+h5 {
+  color: lightgray;
+  margin-inline: auto;
+  text-align: center;
+  width: 75%;
 }
 
 body {
